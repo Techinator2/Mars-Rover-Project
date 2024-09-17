@@ -1,1 +1,0 @@
-Rover's position is held by x,y and 1 cardinal compass point
